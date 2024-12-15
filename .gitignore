@@ -1,6 +1,2 @@
-
 .DS_Store
-node_modules
-# Ignore Terraform-related files
-tf/.terraform/
-
+node_modules/
