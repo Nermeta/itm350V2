@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1728845010113" clover="3.2.0">
-  <project timestamp="1728845010114" name="All files">
+<coverage generated="1734232934829" clover="3.2.0">
+  <project timestamp="1734232934829" name="All files">
     <metrics statements="14" coveredstatements="14" conditionals="14" coveredconditionals="13" methods="4" coveredmethods="4" elements="32" coveredelements="31" complexity="0" loc="14" ncloc="14" packages="1" files="1" classes="1"/>
-    <file name="bankAccount.js" path="C:\Users\Wynter\Documents\GitHub\itm350\src\bankAccount.js">
+    <file name="bankAccount.js" path="C:\Users\Wynter\Documents\GitHub\itm350V2\src\bankAccount.js">
       <metrics statements="14" coveredstatements="14" conditionals="14" coveredconditionals="13" methods="4" coveredmethods="4"/>
       <line num="4" count="8" type="stmt"/>
       <line num="5" count="8" type="stmt"/>
