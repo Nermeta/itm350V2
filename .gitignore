@@ -1,0 +1,2 @@
+# Ignore Terraform-related files
+tf/.terraform/
