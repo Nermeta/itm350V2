@@ -1,6 +1,6 @@
 ami                  = "ami-0e252be8f4dfa2c0d"
 cluster_name         = "ECS Instance - bb-cluster"
-container_image      = "itm350-qoi123-bb:1.0"
+container_image      = "itm350-qoi123-bb:latest"
 container_port       = 8080
 instance_name_prefix = "cit262-node"
 instance_type        = "t2.micro"
