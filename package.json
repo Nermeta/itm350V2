@@ -6,5 +6,8 @@
     "start": "node server.js",
     "test": "jest",
     "test:coverage": "jest --coverage"
+  },
+  "dependencies": {
+    "docker": "^1.0.0"
   }
 }
